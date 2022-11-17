@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta charset="utf-8">
+
+    </head>
+<title>万能应用市场分析报告</title>
+    <body>
+<h1>万能应用市场分析报告</h1>
+<h2>本次由 FengMuSecurit 分析组(1) 分析。</h2>
+<ul>
+ <h3></h3>
+       <h3>在获取样本后，我们首先双击通过Ark工具分析行为。发现图中的“安装失败”窗口是一个假的弹窗，经过Ark工具的查看后，我们发现释放出的安装器实际在后台静默安装“万能应用市场”</h3>
+       <img src="imgs\221117\wnsc\1.jpg" width="600" />
+       <img src="imgs\221117\wnsc\2.jpg" width="600" />
+       <img src="imgs\221117\wnsc\3.jpg" width="600" />
+       <img src="imgs\221117\wnsc\4.jpg" width="600" />
+
+      <h3>在双击运行后，我们通过工具进行行为分析，发现了释放了3个安装的包文件。在执行卸载时1个安装包文件。</h3>
+       <img src="imgs\221117\wnsc\Dropper.jpg" width="600" />
+
+      <h3>同时，我们还发现安装万能应用市场后会有推广弹窗的出现。</h3>
+       <img src="imgs\221117\wnsc\Adware.jpg" width="600" />
+       <h4>组件名称：WnSoftManager.exe</h4>
+      <h3>另外，发现了上面推广弹窗的启动组件以及任务。</h3>
+       <img src="imgs\221117\wnsc\AdwareSevers.jpg" width="600" />
+
+<h3>程序不允许断网运行。</h3>
+       <img src="imgs\221117\wnsc\None.jpg" width="600" />
+     
+
+ <h3>经过对程序的深入分析后，我们在代码中发现多条无用的混淆代码，在去除混淆代码后，发现了多条Softcnapp的特征</h3>
+       <img src="imgs\221117\wnsc\Softcnapp.jpg" width="600" />
+      <h3>相关联的Softcnapp也被捕获。</h3>
+       <img src="imgs\221117\wnsc\GL.jpg" width="600" /> 
+          
+      <h3>至此，继续分析已无任何意义。已确定程序为Softcnapp的变种。下面是Iocs：</h3>
+       <img src="imgs\221117\wnsc\iocs.jpg" width="600" />    
+     <h3>安全软件关于对此程序的检测：</h3>
+       <img src="imgs\221117\wnsc\scan.jpg" width="600" />    
+             
+<h2>请广大网民提高安全意识。</h2>
+  <a href="index.html">返回</a>
+               
+               
+    </body>
+
+</html>
