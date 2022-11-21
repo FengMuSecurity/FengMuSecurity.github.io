@@ -44,4 +44,4 @@
 ##### 2022年8月17日 FengMuSecurity 搭建 2022年9月2日更改至GitHub
 #### [更新日志](updata.html)
 #### [系统急救箱](sysfixkiller.html)
-#### 站长邮箱：~~fengmucomputer@163.com~~，是fengmusecurity@163.com
+#### 站长邮箱：fengmusecurity@163.com、fengmucomputer@163.com，有问题及时通过邮箱联系
