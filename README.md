@@ -34,6 +34,7 @@
 #### [病毒名称简单解释](virusname.md)
 #### [2022.8杀软扫描测试](2208scantest.html)
 #### [sha-2修复工具](sha2fixtool.html)
+#### [AntiVirusTest/EICAR-AV-Test-File](eicar.html)
 ---
 ### 分析报告
 #### [万能应用市场分析报告](softcnapp(wanneng).html)
