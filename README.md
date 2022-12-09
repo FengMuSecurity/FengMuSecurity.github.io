@@ -1,10 +1,6 @@
 # FengMuSecurity 官方网站
 ==
-## 唯一网址：[fengmusecurity.github.io](fengmusecurity.github.io)
---
 ## 我们的口号：大气谦和 互帮互助
-## 页面正在进行大改版，期间可能出现不能访问的现象，请见谅！
-## 必看：由于本网站基于GithubPages搭建，所以有节点被Qiang的状态，如果访问不了请借助【网络代理程序】访问。
 ---
 
 ## 在线工具
@@ -34,7 +30,8 @@
 #### [病毒名称简单解释](virusname.md)
 #### [2022.8杀软扫描测试](2208scantest.html)
 #### [sha-2修复工具](sha2fixtool.html)
-#### [AntiVirusTest/EICAR-AV-Test-File](eicar.txt)
+#### [AntiVirusTest/EICAR-AV-Test-File（下载后请解压使用）](eicar.zip)
+#### [系统急救箱](sysfixkiller.html)
 ---
 ### 分析报告
 #### [万能应用市场分析报告](softcnapp(wanneng).html)
@@ -48,5 +45,6 @@
 ### 关于网站
 ##### 2022年8月17日 FengMuSecurity 搭建 2022年9月2日更改至GitHub
 #### [更新日志](updata.html)
-#### [系统急救箱](sysfixkiller.html)
-#### 站长邮箱：fengmusecurity@163.com、fengmucomputer@163.com，有问题及时通过邮箱联系
+#### [联系我&网站反馈](contact.md)
+
+
