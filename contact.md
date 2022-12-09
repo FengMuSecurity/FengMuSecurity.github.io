@@ -1,5 +1,5 @@
 ## 关于我
-### Hi，来自远方的小伙伴你好~我是[FengMuSecurity博客](fengmusecurity.github.io)和[FengMuSecurity论坛](bbs.fengmusecurity.ezyro.com/)的运营。我活跃在卡饭论坛、火绒论坛和FengMuSecurity论坛。我热爱音乐，热爱二胡，热爱计算机，热爱卡饭，热爱火绒。
+### Hi，来自远方的小伙伴你好~我是[FengMuSecurity博客](fengmusecurity.github.io)和[FengMuSecurity论坛](bbs.fengmusecurity.ezyro.com/)的运营。我活跃在[卡饭论坛](bbs.kafan.cn)、[火绒论坛](bbs.huorong.cn)和FengMuSecurity论坛。我热爱音乐，热爱二胡，热爱计算机，热爱卡饭，热爱火绒。
 --
 ## 关于网站
 ### 这个网站，是因为疫情网课在家无聊搭建的，网站前前后后换过两个主机系统，也换过几套UI（先从单HTML再到增加颜色的HTML再到现在的Markdown）。
