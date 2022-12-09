@@ -30,7 +30,7 @@
 #### [病毒名称简单解释](virusname.md)
 #### [2022.8杀软扫描测试](2208scantest.html)
 #### [sha-2修复工具](sha2fixtool.html)
-#### [AntiVirusTest/EICAR-AV-Test-File（下载后请解压使用）](eicar.zip)
+#### [AntiVirusTest/EICAR-AV-Test-File（请复制网页内容，粘贴到记事本保存使用）](eicar.txt)
 #### [系统急救箱](sysfixkiller.html)
 ---
 ### 分析报告
