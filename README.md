@@ -1,6 +1,10 @@
 # FengMuSecurity 官方网站
 ==
 ## 我们的口号：大气谦和 互帮互助
+
+<marquee width = "100%"   >     
+本站论坛已开通，论坛地址http://bbs.fengmusecurity.ezyro.com/，欢迎注册！另外，FirPE安全集成版V1.2正在公测中，欢迎下载体验！本站目前支持申请友链，想申请友链的请联系fengmusecurity@163.com或在论坛交流！
+</marquee >
 ---
 
 ## 在线工具
